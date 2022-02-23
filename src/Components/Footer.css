@@ -1,0 +1,11 @@
+.footer {
+    background-color: red;
+    margin: 2rem;
+    height: 10vh;
+    /* padding: 0 4rem; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+}
